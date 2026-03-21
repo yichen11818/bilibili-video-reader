@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bilibili Video Reader"
+  short_description: "Extract subtitles, audio, and metadata"
+  default_prompt: "Use $bilibili-video-reader to read this Bilibili URL and prepare a transcript I can summarize."
